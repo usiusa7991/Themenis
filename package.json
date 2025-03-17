@@ -3,6 +3,11 @@
   "displayName": "Themenis",
   "description": "A VS Code theme inspired by Ina of Hololive :D",
   "version": "0.0.1",
+  "publisher": "RIRICHAN",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usiusa7991/Themenis"
+  },
   "engines": {
     "vscode": "^1.98.0"
   },
