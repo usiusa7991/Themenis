@@ -8,3 +8,7 @@ This VS Code theme is inspired by Ninomae Inanis from Hololive English -Myth-.
 - and of course, **👍️:D**
 
 Enjoy.
+
+## Screenshot
+
+![Screenshot](screenshot.png)
