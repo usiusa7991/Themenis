@@ -1,0 +1,21 @@
+{
+  "name": "themenis",
+  "displayName": "Themenis",
+  "description": "A VS Code theme inspired by Ina of Hololive :D",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Themenis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/takos-themez.json"
+      }
+    ]
+  }
+}
